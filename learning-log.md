@@ -25,3 +25,5 @@ I'm learning Git and version control to track my work.
 - Learn about rebasing and interactive rebase
 - Explore GitHub Actions for automation
 - Practice contributing to open source projects
+- Follow more GitHub lessons on Nextwork
+- Practise using Git more frequently
